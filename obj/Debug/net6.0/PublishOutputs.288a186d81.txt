@@ -1,0 +1,17 @@
+D:\Projects\vscodetrain\bin\Debug\net6.0\publish\vscodetrain.exe
+D:\Projects\vscodetrain\bin\Debug\net6.0\publish\appsettings.Development.json
+D:\Projects\vscodetrain\bin\Debug\net6.0\publish\appsettings.json
+D:\Projects\vscodetrain\bin\Debug\net6.0\publish\app\angular.json
+D:\Projects\vscodetrain\bin\Debug\net6.0\publish\app\package-lock.json
+D:\Projects\vscodetrain\bin\Debug\net6.0\publish\app\package.json
+D:\Projects\vscodetrain\bin\Debug\net6.0\publish\app\tsconfig.app.json
+D:\Projects\vscodetrain\bin\Debug\net6.0\publish\app\tsconfig.json
+D:\Projects\vscodetrain\bin\Debug\net6.0\publish\app\tsconfig.spec.json
+D:\Projects\vscodetrain\bin\Debug\net6.0\publish\vscodetrain.dll
+D:\Projects\vscodetrain\bin\Debug\net6.0\publish\vscodetrain.deps.json
+D:\Projects\vscodetrain\bin\Debug\net6.0\publish\vscodetrain.runtimeconfig.json
+D:\Projects\vscodetrain\bin\Debug\net6.0\publish\vscodetrain.pdb
+D:\Projects\vscodetrain\bin\Debug\net6.0\publish\Microsoft.OpenApi.dll
+D:\Projects\vscodetrain\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\vscodetrain\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\vscodetrain\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
